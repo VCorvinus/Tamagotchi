@@ -1,2 +1,4 @@
 # Tamagotchi
-悪魔ウオッチ
+HellSpawn
+
+dependencies: Node.js, readline, figlet 
