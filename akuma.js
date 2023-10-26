@@ -246,7 +246,7 @@ function startGameLoop(spawn) {
 }
 
 function gameOver() {
-  console.log(`${spawn.name} has died. Game over.`);
+  console.log(`${Spawn.name} has died. Game over.`);
 figlet('Game Over', function(err, data) {
             if (!err) {
               console.log(data);
